@@ -40,12 +40,11 @@ I am highly enthusiastic about hardware verification and UVM Development. I poss
 ## Projects
 
 ###  APB Verification 
-- Developed test-cases and did APB verification by using
-Universal Verification Methodology (UVM). Also, Implemented Functional Coverage and Validate the Behavior of the Design by Assertion Based Verification during the Verification Process.
+- Developed test-cases and did APB verification using Universal Verification Methodology (UVM). Also, Implemented Functional Coverage and Validate the Behavior of the Design by Assertion Based Verification during the Verification Process.
 
 
 ### SISO and PISO (Universal Register) IP Verification 
-- Developed test-cases for SISO, and PISO Universal Register IP and did Functional Verification by using UVM.
+- Developed test-cases for SISO, and PISO Universal Register IP and did Functional Verification using UVM.
 
 ## Contact
 
