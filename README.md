@@ -39,7 +39,7 @@ I am highly enthusiastic about hardware verification and UVM Development. I poss
 
 ## Projects
 
-###  ABP Verification 
+###  APB Verification 
 - Developed test-cases and did APB verification by using
 Universal Verification Methodology (UVM). Also, Implemented Functional Coverage and Validate the Behavior of the Design by Assertion Based Verification during the Verification Process.
 
